@@ -8110,7 +8110,7 @@ export const FLIGHTS: Record<string, Flight[]> = {
     { id:'jsx-pbi-hpn-124', airline:'JSX', dep:'3:10 PM', arr:'6:10 PM', dc:'PBI', ac:'HPN', dur:'3h 00m', price:752, craft:'ERJ-135', seats:1, amen:['WiFi','Snacks'], link:'jsx.com', date:'2026-05-26' },
     { id:'jsx-pbi-hpn-125', airline:'JSX', dep:'3:10 PM', arr:'6:10 PM', dc:'PBI', ac:'HPN', dur:'3h 00m', price:682, craft:'ERJ-135', seats:1, amen:['WiFi','Snacks'], link:'jsx.com', date:'2026-05-27' },
     { id:'slate-pbihpn-1', airline:'Slate', dep:'4:00 PM', arr:'7:00 PM', dc:'PBI', ac:'HPN', dur:'3h 00m', price:1990, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-22' },
-    { id:'slate-pbihpn-2', airline:'Slate', dep:'9:30 AM', arr:'12:30 PM', dc:'PBI', ac:'HPN', dur:'3h 00m', price:2090, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-26' },
+    { id:'slate-pbihpn-2', airline:'Slate', dep:'9:30 AM', arr:'12:30 PM', dc:'PBI', ac:'HPN', dur:'3h 00m', price:1990, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-26' },
     { id:'slate-pbihpn-3', airline:'Slate', dep:'9:30 AM', arr:'12:30 PM', dc:'PBI', ac:'HPN', dur:'3h 00m', price:2190, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-29' },
   ],
   'PBI-TEB': [
@@ -8268,9 +8268,8 @@ export const FLIGHTS: Record<string, Flight[]> = {
     { id:'jsx-pbi-teb-152', airline:'JSX', dep:'3:10 PM', arr:'6:10 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:682, craft:'ERJ-135', seats:2, amen:['WiFi','Snacks'], link:'jsx.com', date:'2026-08-05' },
     { id:'jsx-pbi-teb-153', airline:'JSX', dep:'3:10 PM', arr:'6:10 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:762, craft:'ERJ-135', seats:1, amen:['WiFi','Snacks'], link:'jsx.com', date:'2026-08-06' },
     { id:'jsx-pbi-teb-154', airline:'JSX', dep:'3:10 PM', arr:'6:10 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:762, craft:'ERJ-135', seats:2, amen:['WiFi','Snacks'], link:'jsx.com', date:'2026-08-07' },
-    { id:'slate-pbiteb-1', airline:'Slate', dep:'10:30 AM', arr:'1:30 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:2090, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-18' },
-    { id:'slate-pbiteb-2', airline:'Slate', dep:'10:30 AM', arr:'1:30 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:3090, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-21' },
-    { id:'slate-pbiteb-3', airline:'Slate', dep:'10:30 AM', arr:'1:30 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:1890, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-28' },
+    { id:'slate-pbiteb-1', airline:'Slate', dep:'10:30 AM', arr:'1:30 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:3090, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-21' },
+    { id:'slate-pbiteb-2', airline:'Slate', dep:'10:30 AM', arr:'1:30 PM', dc:'PBI', ac:'TEB', dur:'3h 00m', price:1890, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-28' },
   ],
   'TEB-PBI': [
     { id:'jsx-teb-pbi-1', airline:'JSX', dep:'9:30 AM', arr:'12:25 PM', dc:'TEB', ac:'PBI', dur:'2h 55m', price:1402, craft:'ERJ-135', seats:1, amen:['WiFi','Snacks'], link:'jsx.com', date:'2026-03-11' },
@@ -9122,7 +9121,7 @@ export const FLIGHTS: Record<string, Flight[]> = {
     { id:'aero-ase-vny-121', airline:'Aero', dep:'12:30 PM', arr:'1:50 PM', dc:'ASE', ac:'VNY', dur:'2h 20m', price:2247, craft:'ERJ-135', seats:16, amen:['WiFi','Gourmet Catering','Champagne'], link:'aero.com', date:'2027-03-29' },
   ],
   'FLL-TEB': [
-    { id:'slate-fllteb-1', airline:'Slate', dep:'2:00 PM', arr:'5:00 PM', dc:'FLL', ac:'TEB', dur:'3h 00m', price:2190, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-23' },
+    { id:'slate-fllteb-1', airline:'Slate', dep:'2:00 PM', arr:'5:00 PM', dc:'FLL', ac:'TEB', dur:'3h 00m', price:2090, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-23' },
     { id:'slate-fllteb-2', airline:'Slate', dep:'2:00 PM', arr:'5:00 PM', dc:'FLL', ac:'TEB', dur:'3h 00m', price:2040, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-30' },
   ],
   'HPN-ACK': [
@@ -10244,7 +10243,7 @@ export const FLIGHTS: Record<string, Flight[]> = {
     { id:'aero-sun-vny-4', airline:'Aero', dep:'12:00 PM', arr:'1:10 PM', dc:'SUN', ac:'VNY', dur:'2h 10m', price:2372, craft:'ERJ-135', seats:14, amen:['WiFi','Gourmet Catering','Champagne'], link:'aero.com', date:'2026-08-16' },
   ],
   'TEB-FLL': [
-    { id:'slate-tebfll-1', airline:'Slate', dep:'5:30 PM', arr:'8:30 PM', dc:'TEB', ac:'FLL', dur:'3h 00m', price:1890, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-19' },
+    { id:'slate-tebfll-1', airline:'Slate', dep:'5:30 PM', arr:'8:30 PM', dc:'TEB', ac:'FLL', dur:'3h 00m', price:2090, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-19' },
     { id:'slate-tebfll-2', airline:'Slate', dep:'9:30 AM', arr:'12:30 PM', dc:'TEB', ac:'FLL', dur:'3h 00m', price:2490, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-24' },
     { id:'slate-tebfll-3', airline:'Slate', dep:'3:30 PM', arr:'6:30 PM', dc:'TEB', ac:'FLL', dur:'3h 00m', price:2490, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-29' },
   ],
