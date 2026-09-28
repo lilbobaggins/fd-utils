@@ -9042,7 +9042,7 @@ export const FLIGHTS: Record<string, Flight[]> = {
     { id:'aero-ase-vny-121', airline:'Aero', dep:'12:30 PM', arr:'1:50 PM', dc:'ASE', ac:'VNY', dur:'2h 20m', price:2247, craft:'ERJ-135', seats:16, amen:['WiFi','Gourmet Catering','Champagne'], link:'aero.com', date:'2027-03-29' },
   ],
   'FLL-TEB': [
-    { id:'slate-fllteb-1', airline:'Slate', dep:'2:00 PM', arr:'5:00 PM', dc:'FLL', ac:'TEB', dur:'3h 00m', price:2490, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-30' },
+    { id:'slate-fllteb-1', airline:'Slate', dep:'2:00 PM', arr:'5:00 PM', dc:'FLL', ac:'TEB', dur:'3h 00m', price:2390, craft:'CRJ-200', seats:1, amen:['WiFi','Catering','Champagne'], link:'flyslate.com', date:'2026-09-30' },
   ],
   'HPN-ACK': [
     { id:'tw-hpn-ack-1', airline:'Tradewind', dep:'04:40 PM', arr:'05:38 PM', dc:'HPN', ac:'ACK', dur:'0h 45m', price:483, craft:'Pilatus PC-12', seats:6, amen:['WiFi','Snacks'], link:'flytradewind.com', date:'2026-09-28' },

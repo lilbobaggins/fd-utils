@@ -2,34 +2,6 @@
   {
     "airline": "Slate",
     "origin_code": "PBI",
-    "destination_code": "TEB",
-    "date": "2026-09-28",
-    "departure_time": "10:30 AM",
-    "arrival_time": "1:30 PM",
-    "duration_minutes": 180,
-    "price": 2390,
-    "available_seats": 1,
-    "aircraft": "Bombardier  CRJ  200",
-    "seat_reservation_id": 900002034,
-    "deeplink": "https://app.flyslate.com/search/points/218-252/dates/20260928/ft/1/c/USD/sr/900002034/"
-  },
-  {
-    "airline": "Slate",
-    "origin_code": "FLL",
-    "destination_code": "HPN",
-    "date": "2026-09-28",
-    "departure_time": "9:30 AM",
-    "arrival_time": "12:30 PM",
-    "duration_minutes": 180,
-    "price": 2190,
-    "available_seats": 1,
-    "aircraft": "Bombardier  CRJ  200",
-    "seat_reservation_id": 900002030,
-    "deeplink": "https://app.flyslate.com/search/points/218-252/dates/20260928/ft/1/c/USD/sr/900002030/"
-  },
-  {
-    "airline": "Slate",
-    "origin_code": "PBI",
     "destination_code": "HPN",
     "date": "2026-09-29",
     "departure_time": "9:30 AM",
@@ -49,24 +21,10 @@
     "departure_time": "2:00 PM",
     "arrival_time": "5:00 PM",
     "duration_minutes": 180,
-    "price": 2490,
+    "price": 2390,
     "available_seats": 1,
     "aircraft": "Bombardier  CRJ  200",
     "seat_reservation_id": 900002042,
     "deeplink": "https://app.flyslate.com/search/points/218-252/dates/20260930/ft/1/c/USD/sr/900002042/"
-  },
-  {
-    "airline": "Slate",
-    "origin_code": "HPN",
-    "destination_code": "PBI",
-    "date": "2026-09-30",
-    "departure_time": "3:30 PM",
-    "arrival_time": "6:30 PM",
-    "duration_minutes": 180,
-    "price": 3690,
-    "available_seats": 1,
-    "aircraft": "Bombardier  CRJ  200",
-    "seat_reservation_id": 900002043,
-    "deeplink": "https://app.flyslate.com/search/points/252-218/dates/20260930/ft/1/c/USD/sr/900002043/"
   }
 ]
