@@ -1,20 +1,6 @@
 [
   {
     "airline": "Slate",
-    "origin_code": "PBI",
-    "destination_code": "HPN",
-    "date": "2026-09-29",
-    "departure_time": "9:30 AM",
-    "arrival_time": "12:30 PM",
-    "duration_minutes": 180,
-    "price": 2290,
-    "available_seats": 1,
-    "aircraft": "Bombardier  CRJ  200",
-    "seat_reservation_id": 900002041,
-    "deeplink": "https://app.flyslate.com/search/points/218-252/dates/20260929/ft/1/c/USD/sr/900002041/"
-  },
-  {
-    "airline": "Slate",
     "origin_code": "FLL",
     "destination_code": "TEB",
     "date": "2026-09-30",
