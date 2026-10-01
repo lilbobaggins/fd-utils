@@ -1,16 +1,1 @@
-[
-  {
-    "airline": "Slate",
-    "origin_code": "FLL",
-    "destination_code": "TEB",
-    "date": "2026-09-30",
-    "departure_time": "2:00 PM",
-    "arrival_time": "5:00 PM",
-    "duration_minutes": 180,
-    "price": 2390,
-    "available_seats": 1,
-    "aircraft": "Bombardier  CRJ  200",
-    "seat_reservation_id": 900002042,
-    "deeplink": "https://app.flyslate.com/search/points/218-252/dates/20260930/ft/1/c/USD/sr/900002042/"
-  }
-]
+[]
